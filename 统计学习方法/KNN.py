@@ -1,3 +1,14 @@
+'''
+numpy实现k近邻法（标准k近邻）
+数据集：
+(1.0,1.1)   A
+(1.0,1.0)   A
+(0,0)       B
+(0,0.1)     B
+实验数据：(0.7,0.7)
+k = 1
+'''
+
 from numpy import *
 import operator
 
